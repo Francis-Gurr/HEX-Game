@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=shape\ color
+comment0.target=HexagonComponent_qwnz51(java.awt.Shape,\ java.awt.Color)
+comment1.params=
+comment1.target=java.awt.Dimension\ getPreferredSize()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=x\ y
+comment3.target=boolean\ contains(int,\ int)
+comment4.params=x\ y
+comment4.target=void\ setCoords(int,\ int)
+comment5.params=
+comment5.target=int\ getXCoord()
+comment6.params=
+comment6.target=int\ getYCoord()
+numComments=7
