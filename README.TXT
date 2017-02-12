@@ -24,7 +24,7 @@ Produce a Hex game
  - Allow computer player to play computer player
 
 FEEDBACK:
-The following is the feedback I recieved for the assignment.
+The following is the feedback I received for the assignment.
 I hope to improve the game further if I get the time.
 
 qwnz51 (Francis Gurr)
