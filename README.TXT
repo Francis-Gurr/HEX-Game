@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-This is the project README file.
+This is the project README file. 
 ------------------------------------------------------------------------
 
 PROJECT TITLE: HEX Game
