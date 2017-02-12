@@ -29,7 +29,7 @@ FEEDBACK:
 The following is the feedback I recieved for the assignment.
 I hope to improve the game further if I get the time.
 
-Francis Gurr
+qwnz51 (Francis Gurr)
                                                                                              Max Y/N | Score
 Part 1: Board Class                                                                                  |
 Part 1.1                                                                                             |
