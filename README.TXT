@@ -7,6 +7,9 @@ AUTHOR: Francis Gurr
 MARK: 97%
 ------------------------------------------------------------------------
 
+.jar
+A .jar and .bat file can be found in the jar HEX-Game/jar directory
+
 THE HEX BOARD GAME:
 - A Strategy game played on a board of any size
 - Two players: red and blue
