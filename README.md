@@ -32,8 +32,8 @@ Produce a Hex game
  - Allow computer player to play computer player
 
 ## FEEDBACK:
-The following is the feedback I received for the assignment. 
-I hope to improve the game further if I get the time. 
+The following is the feedback I received for the assignment.
+I hope to improve the game further once I get the time.
 This includes removing all command line inputs to provide full GUI functionality.
 The raw original feedback I recieved is available [here](https://github.com/Francis-Gurr/HEX-Game/blob/master/Notes%20and%20Feedback%20-%20qwnz51.pdf).
 
