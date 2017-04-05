@@ -13,7 +13,7 @@
 ---
 
 ## jar File
-To simply play the game a .jar and .bat file can be found in the jar HEX-Game/jar directory.
+To simply play the game a .jar and .bat file can be found in [HEX-Game/jar](https://github.com/Francis-Gurr/HEX-Game/tree/master/jar).
 
 ## THE HEX BOARD GAME:
 - A Strategy game played on a board of any size
@@ -62,7 +62,7 @@ The raw original feedback I recieved is available [here](https://github.com/Fran
 | Part 2.2b | Specifying Piece.UNSET causes specifyPlayer to throw InvalidColourException | 0.25 | Y | 0.25|
 | Part 2.2c | Trying to set two players to be BLUE will throw ColourAlreadySetException | 0.25 | Y | 0.25 |
 | Part 2.2d | Specifying an illegal board size will throw an InvalidBoardSizeException | 0.25 | Y | 0.25 |
-| Part 2.2e | Trying to re-set the size of a game will throw a BoardAlreadySizedException | 0.25 Y | 0.25 |
+| Part 2.2e | Trying to re-set the size of a game will throw a BoardAlreadySizedException | 0.25 | Y | 0.25 |
 | Part 2.3a | Correct moves made by RED | 2.5 | Y | 2.5 |
 | Part 2.3b | Red player got end game state | 1.5 | Y | 1.5 |
 | Part 2.3c | Correct moves made by BLUE | 2.5 | Y | 2.5 |
