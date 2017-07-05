@@ -25,6 +25,10 @@ To simply play the game a .jar and .bat file can be found in [HEX-Game/jar](http
 - It can be played on a board of any size n*m, but is only fair when n=m
 - https://en.wikipedia.org/wiki/Hex_(board_game)
 
+A screenshot of my Hex Game:
+
+![Hex Game](/Hex_Game.png)
+
 ## THE ASSIGNMENT:
 Produce a Hex game
  - Allow human player to play human player
